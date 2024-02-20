@@ -1,0 +1,32 @@
+{
+  "config": {
+    "data": {
+      "/**": [
+        {
+          "key": "name",
+          "value": "Blueprints Demo"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "data": {
+      "/**": [
+        {
+          "key": "category",
+          "value": "news"
+        }
+      ]
+    }
+  },
+  "headers": {
+    "data": {
+      "/**": [
+        {
+          "key": "access-control-allow-origin",
+          "value": "*"
+        }
+      ]
+    }
+  }
+}
