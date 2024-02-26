@@ -24,7 +24,7 @@
       "/**": [
         {
           "key": "access-control-allow-origin",
-          "value": "https://example3.com"
+          "value": "https://example4.com"
         }
       ]
     }
